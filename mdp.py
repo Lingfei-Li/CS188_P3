@@ -14,8 +14,8 @@
 
 import random
 
-class MarkovDecisionProcess:
 
+class MarkovDecisionProcess:
     def getStates(self):
         """
         Return a list of all states in the MDP.
